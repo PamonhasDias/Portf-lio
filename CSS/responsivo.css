@@ -58,7 +58,12 @@
         text-align: center;
         
     }
+    .sobre .txt-sobre h2 #EfeitoNome{
 
+        margin: 0;
+        font-size: 41px;
+    
+    }
 
     .img-sobre img{
         width: 100%;

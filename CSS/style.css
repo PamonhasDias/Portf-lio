@@ -238,9 +238,7 @@ section.especiliadades .flex {
     transform: scale(1.05);
     box-shadow: 0 0 20px #ffffff78;
     background-image: linear-gradient(to bottom, transparent, 80%,var(--color-destaque));
-
-
-
+    
 }
 .especiliadades .especialidades-box i {
     font-size: 70px;

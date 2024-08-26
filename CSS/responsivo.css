@@ -11,7 +11,7 @@
 
     h2.titulo {
         font-size: 34px;
-        line-height: 30px;
+        line-height: 40px;
     }
 
     /* CABEÇALHO */
@@ -41,6 +41,11 @@
     /* ESPECIALIDADES */
     section.especiliadades {
         padding: 40px 8%;
+        
+    }
+    .especialidades-box{
+
+        background-image: linear-gradient(to bottom, transparent, 80%,var(--color-destaque));
     }
 
     /* SOBRE */

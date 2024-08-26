@@ -44,8 +44,10 @@
         
     }
     .especialidades-box{
-
         background-image: linear-gradient(to bottom, transparent, 80%,var(--color-destaque));
+    }
+    .especialidades-box:hover{
+        box-shadow: none;
     }
 
     /* SOBRE */

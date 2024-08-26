@@ -19,5 +19,4 @@
     else{
         echo("Houve um erro ao enviar o e-mail!");
     }
-    
 ?>

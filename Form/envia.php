@@ -14,10 +14,10 @@
     $cabeca = "From: gdias@consenti.com.br"."\n"."Reply-to: ".$email."\n"."X=Mailer:PHP/".phpversion();
 
     if(mail($para,$assunto,$corpo,$cabeca)){
-        echo("E-mail enviado com sucesso!")
+        echo("E-mail enviado com sucesso!");
     }
     else{
-        echo("Houve um erro ao enviar o e-mail!")
+        echo("Houve um erro ao enviar o e-mail!");
     }
     
 ?>

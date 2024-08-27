@@ -19,6 +19,9 @@
     .btn-contato {
         display: none;
     }
+    .btn-abrir-menu{
+        display: block
+    }
 
     /* TOPO DO SITE */
 
